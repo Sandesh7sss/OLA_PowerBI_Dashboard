@@ -25,6 +25,9 @@ The dashboard helps identify cancellation trends, key reasons, and actionable in
 3. Open the `.pbix` file in Power BI Desktop to explore the interactive dashboard.  
 
 ## 🖼 Dashboard Preview
-
-
+![ola cancellation_1]("C:\Users\sande\OneDrive\Pictures\Screenshots\ola cancellation_1.png")
+![ola cancellation_2]("C:\Users\sande\OneDrive\Pictures\Screenshots\ola cancellation_2.png")
+![ola cancellation_3]("C:\Users\sande\OneDrive\Pictures\Screenshots\ola cancellation_3.png")
+![ola cancellation_4]("C:\Users\sande\OneDrive\Pictures\Screenshots\ola cancellation_4.png")
+![ola cancellation_5]("C:\Users\sande\OneDrive\Pictures\Screenshots\ola cancellation_5.png")
 
